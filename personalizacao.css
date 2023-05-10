@@ -1,5 +1,8 @@
 body {
-  background-image: url("https://static.natura.com/cdn/ff/QIGkJJDc8qRhSK2WZizn2dRx-rMLBvEQl1ISSXl4xWg/1663835229/public/styles/original/public/2019-05/como-se-conectar-trazer-natureza-perto-natura-header-mobile.jpg?itok=q3-IjGRD");
+  background-image: url("imagens/natureza.jpg");
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+
   font-family: Arial, sans-serif;
 }
 
@@ -31,5 +34,4 @@ p {
 .button:hover{
   background-color: #005353;
 }
-
 
