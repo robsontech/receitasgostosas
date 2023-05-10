@@ -16,6 +16,7 @@
       ('America/Sao_Paulo');
     echo date('h:i:s A');
     ?>
+    <br>
     <a href="#" class="button">Entre em contato</a>
   </body>   
 </html>
