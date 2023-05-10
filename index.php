@@ -11,11 +11,12 @@
     <p>Sou um(a) aluno(a) iniciante em programação e cloud computing!
       Gosto também de assistir filmes, jogar bola, fazer musculação,
       viajar e jogar vídeo-game.</p>
-    <?php
+    <p><?php
     date_default_timezone_set
       ('America/Sao_Paulo');
     echo date('h:i:s A');
-    ?>
+    ?></p>
+    
     <br>
     <a href="#" class="button">Entre em contato</a>
   </body>   
